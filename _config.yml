@@ -1,0 +1,10 @@
+title: rm-kay
+description: Personal site
+url: "https://rm-kay.github.io"
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - CLAUDE.md
+  - README.md
